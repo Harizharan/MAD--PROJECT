@@ -20,7 +20,11 @@ The AI Voice Assistant is a cutting-edge mobile application built using React Na
 •⁠  ⁠Node.js
 •⁠  ⁠Expo CLI
 •⁠  ⁠React Native environment
-•⁠  ⁠Access to OpenAI API keys
+•⁠  ⁠Access to OpenAI API k
+<img width="386" alt="Screenshot 2024-11-22 at 7 00 34 PM" src="https://github.com/user-attachments/assets/48817494-a539-4c48-8a00-766722ca4d36">
+eys
+
+
 
 ### Steps
 1.⁠ ⁠Clone the repository:
