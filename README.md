@@ -1,4 +1,4 @@
-# AI Voice Assistant
+<img width="386" alt="Screenshot 2024-11-22 at 7 00 34 PM" src="https://github.com/user-attachments/assets/37593849-d8fb-4c95-b989-97b3d1fd54dc"># AI Voice Assistant
 
 ## Overview
 The AI Voice Assistant is a cutting-edge mobile application built using React Native and Expo. This app leverages artificial intelligence to provide seamless voice-based interaction, enabling users to communicate naturally and effectively. By combining speech recognition, natural language processing, and text-to-speech technologies, the app offers real-time assistance for a variety of use cases.
@@ -20,10 +20,12 @@ The AI Voice Assistant is a cutting-edge mobile application built using React Na
 •⁠  ⁠Node.js
 •⁠  ⁠Expo CLI
 •⁠  ⁠React Native environment
-•⁠  ⁠Access to OpenAI API k
-<img width="386" alt="Screenshot 2024-11-22 at 7 00 34 PM" src="https://github.com/user-attachments/assets/48817494-a539-4c48-8a00-766722ca4d36">
-eys
+•⁠  ⁠Access to OpenAI API keys
 
+![U![PHOTO-2024-11-22-18-33-59](https://github.com/user-attachments/assets/54728309-973d-4fa3-99c5-725f04e5f860)
+ploading Screenshot 2024-11-22 at 7.00.34 PM.png…]()
+![PHOTO-2024-11-22-18-33-59 2](https://github.com/user-attachments/assets/4f2ce365-32da-45cc-83f2-8f7edf56fd79)
+<img width="388" alt="Screenshot 2024-11-22 at 6 56 57 PM" src="https://github.com/user-attachments/assets/35c1e821-dffc-4a1d-9b46-31b92264ef86">
 
 
 ### Steps
