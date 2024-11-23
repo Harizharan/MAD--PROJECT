@@ -25,5 +25,6 @@ The AI Voice Assistant is a cutting-edge mobile application built using React Na
 ### Steps
 1.⁠ ⁠Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-voice-assistant.git
-   cd ai-voice-assistant
+   git clone https://github.com/Harizharan/MAD--PROJECT.git
+   cd Artifonia-master
+
